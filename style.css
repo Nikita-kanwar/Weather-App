@@ -6,7 +6,10 @@
 }
 
 body{
-    background: #222;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#c5e5ed,#0466a3);
+    padding: 10px;
 }
 
 .card{
