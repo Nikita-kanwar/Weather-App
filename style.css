@@ -8,14 +8,14 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg,#c5e5ed,#0466a3);
+    background: linear-gradient(135deg,#5598dc,#add9f4);
     padding: 10px;
 }
 
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg,#00feba,#5b548a);
+    background: linear-gradient(135deg,#57b2f3,#5598dc);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
