@@ -8,7 +8,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg,#5598dc,#add9f4);
+    background: linear-gradient(135deg,#5f5e5e,#323334);
     padding: 10px;
 }
 
@@ -47,8 +47,8 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     cursor: pointer;
 }
 
