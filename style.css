@@ -8,7 +8,7 @@
 body{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg,#5f5e5e,#323334);
+    background: #111;
     padding: 10px;
 }
 
